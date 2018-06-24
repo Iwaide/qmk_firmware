@@ -77,4 +77,4 @@ CUSTOM_MATRIX = yes
 
 LAYOUTS = ortho_4x14
 
-DEFAULT_FOLDER = ergo42/rev1
+DEFAULT_FOLDER = natohara/rev1
