@@ -100,9 +100,9 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   //,-----------------------------------------.                ,-----------------------------------------.
         GRV,     1,     2,     3,     4,     5,                      6,     7,     8,     9,     0,  DEL ,\
   //|------+------+------+------+------+------|                |------+------+------+------+------+------|
-      CTLTB, XXXXX,MS_LEFT,MS_UP,MS_RIGHT,MS_BTN2,                LEFT,  DOWN,    UP, RIGHT,  MINS,   EQL,\
+      LCTRL, XXXXX,MS_LEFT,MS_UP,MS_RIGHT,MS_BTN2,                LEFT,  DOWN,    UP, RIGHT,  MINS,   EQL,\
   //|------+------+------+------+------+------|                |------+------+------+------+------+------|
-       LSFT,  UNDO,   CUT,MS_DOWN,PASTE, XXXXX,                  XXXXX, XXXXX, XXXXX, XXXXX, XXXXX,MS_BTN1,\
+       LSFT,  UNDO,   CUT,MS_DOWN,PASTE,  HOME,                    END, XXXXX, XXXXX, XXXXX, XXXXX,MS_BTN1,\
   //|------+------+------+------+------+------+------|  |------+------+------+------+------+------+------|
                                    LALT,   SPC, LOWER,    LBRC, RAISE,   LGUI \
                               //`--------------------'  `--------------------'
